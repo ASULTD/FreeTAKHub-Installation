@@ -4,7 +4,7 @@ dependencies:
   - { role: python3 }
 
 galaxy_info:
-  role_name: fretakserver_ui
+  role_name: freetakserver_ui
   author: freetakteam
   description: Free TAK Server User Interface
   license: license (EPL-2.0)
